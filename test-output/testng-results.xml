@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55929" started-at="2019-12-21T10:38:15Z" finished-at="2019-12-21T10:39:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55929" started-at="2019-12-21T10:38:15Z" finished-at="2019-12-21T10:39:11Z">
+      <class name="com.vtiger.userTest.OpportunityTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.vtiger.userTest.OpportunityTest@1bce4f0a]" name="configBc" is-config="true" duration-ms="16704" started-at="2019-12-21T10:38:15Z" finished-at="2019-12-21T10:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="ConfigBm()[pri:0, instance:com.vtiger.userTest.OpportunityTest@1bce4f0a]" name="ConfigBm" is-config="true" duration-ms="17246" started-at="2019-12-21T10:38:32Z" finished-at="2019-12-21T10:38:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBm -->
+        <test-method status="PASS" signature="OpportunityTest()[pri:0, instance:com.vtiger.userTest.OpportunityTest@1bce4f0a]" name="OpportunityTest" duration-ms="21690" started-at="2019-12-21T10:38:49Z" finished-at="2019-12-21T10:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpportunityTest -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.vtiger.userTest.OpportunityTest@1bce4f0a]" name="configAm" is-config="true" duration-ms="0" started-at="2019-12-21T10:39:11Z" finished-at="2019-12-21T10:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vtiger.userTest.OpportunityTest@1bce4f0a]" name="configAC" is-config="true" duration-ms="0" started-at="2019-12-21T10:39:11Z" finished-at="2019-12-21T10:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.vtiger.userTest.OpportunityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
